@@ -9,7 +9,7 @@
 		"module": "esnext",
 		"target": "es5",
 		"moduleResolution": "node",
-		"isolatedModules": true,
+		// "isolatedModules": true,
 		"lib": ["dom", "es5", "es2015.promise"],
 		"sourceMap": true,
 		"pretty": true
